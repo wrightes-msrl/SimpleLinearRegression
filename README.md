@@ -1,7 +1,7 @@
 # SimpleLinearRegression
 
 Matlab examples for creating, visualizing, and assessing a simple linear
-regression model from data.
+regression model from data. Taken from "Probability Models and Data Analysis".
 
 **simpleSalaryRegression.mlx:** MATLAB LiveScript that demonstrates how to load
 data from an external file into a table data structure, construct a linear
